@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: I design distributed software systems with special emphasis on sustainability
+subtitle: I Design Distributed Software Systems with special emphasis on Sustainability
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KEB 206</p>
