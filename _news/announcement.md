@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ICPE paper awarded best paper runner-up!
+ICPE paper awarded Best Paper Runner-Up!
