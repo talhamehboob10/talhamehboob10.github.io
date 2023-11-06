@@ -19,9 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-Hi and welcome!
-
 I am a Computer Engineering PhD student at <a href="https://www.umass.edu/engineering/electrical-and-computer-engineering">University of Massachusetts Amherst</a> (started in Fall 2021), working under the supervision of <a href="https://www.davidirwin.info">Prof. David Irwin</a> and <a href="https://www.mikezink.net">Prof. Michael Zink</a>. My research focuses on the design of distributed software systems, with a special emphasis on sustainability and efficiency. Specifically, I aim to improve the efficiency and optimize the cost of large-scale computer systems, including data centers, cloud platforms, and edge computing platforms. Additionally, my research interests extend to the cost and performance optimization in distributed machine learning, with a particular focus on federated machine learning. 
 
 Prior to joining UMass, I worked as a Research Assistant at the <a href="https://tukl.seecs.nust.edu.pk">TUKL-NUST Research Development Center </a> at <a href="https://nust.edu.pk">NUST</a> Pakistan. I did my undergrad in Electrical Engineering from <a href="https://seecs.nust.edu.pk">School of Electrical Engineering and Computer Science</a> at NUST, Pakistan.
