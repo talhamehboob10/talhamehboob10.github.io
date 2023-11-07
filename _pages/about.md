@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: I Design Distributed Software Systems with special emphasis on Sustainability
 
