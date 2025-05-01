@@ -1,10 +1,10 @@
 
 ---
 layout: post
-date: 2025-04-30 
+date: 2024-11-12 
 inline: true
 related_posts: false
 ---
 
-Excited to share that I’ll be presenting my work, EcoLearn - Optimizing the carbon footprint of Federated Learning, at the Flower Monthly – April Edition, happening on Wednesday, May 7th!
+I passed my Research Qualifying Exam (RQE) and I’m officially a PhD Candidate!
 
