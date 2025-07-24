@@ -23,4 +23,4 @@ I am a Computer Engineering PhD candidate at <a href="https://www.umass.edu/engi
 
 Prior to joining UMass, I worked as a Research Assistant at the <a href="https://tukl.seecs.nust.edu.pk">TUKL-NUST Research Development Center </a> at <a href="https://nust.edu.pk">NUST</a> Pakistan. I did my undergrad in Electrical Engineering from <a href="https://seecs.nust.edu.pk">School of Electrical Engineering and Computer Science</a> at NUST, Pakistan.
 
-Beyond my professional pursuits, I maintain an active lifestyle, hitting the gym regularly and relishing new cuisines while whipping up traditional Pakistani dishes for friends. I'm a die-hard cinema and music fan, enjoy traveling and swimming, and have even taken the plunge with skydiving. Scuba diving is next on my adventure list as I live life to the fullest.
+Beyond my professional pursuits, I maintain an active lifestyle, hitting the gym regularly and relishing new cuisines while whipping up traditional Pakistani dishes for friends. I'm a die-hard cinema and music fan, enjoy traveling and swimming, and have even taken the plunge with skydiving. 
